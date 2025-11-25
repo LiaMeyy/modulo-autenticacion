@@ -16,11 +16,13 @@ Funcionalidades principales
 - Recuperación de contraseña
 - Cierre de sesión
 
-Historias de usuario
-1. Como usuario, quiero registrarme para poder crear una cuenta.
-2. Como usuario registrado, quiero iniciar sesión para entrar a mi cuenta.
-3. Como usuario, quiero poder recuperar mi contraseña si la olvido.
-4. Como usuario, quiero cerrar sesión para salir del sistema.
+Historias de Usuario
+1. Registro de usuario
+Como usuario, quiero registrarme en la plataforma para poder crear una cuenta y acceder al sistema.
+2. Inicio de sesión 
+Como usuario registrado, quiero iniciar sesión con mis credenciales para poder entrar a mi cuenta.
+3. Dashboard
+Como usuario autenticado, quiero acceder a un dashboard después del inicio de sesión para visualizar la información principal de mi cuenta.
 
 Flujo de trabajo
 Se trabaja con las siguientes ramas:
